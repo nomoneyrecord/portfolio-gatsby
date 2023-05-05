@@ -1,14 +1,11 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/AI-human.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Welcome to my portfolio website, where my personal and professional journey converge. From a young age, I was captivated by science, learning, technology, nature, and software engineering, fueling a lifelong passion that continues to drive me today.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+It all started with playing floppy disk games on an IBM computer, delving into the intricacies of technology and navigating low-level files using the command line. This early fascination grew into a diverse range of pursuits, from practicing survival skills to dismantling PlayStations and composing music. Now, as a rapidly growing software engineer, I find immense excitement in building innovative applications that push boundaries and enhance lives.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+With a well-rounded background, deep appreciation for technology, and a blend of analytical and creative thinking, I strive to create transformative solutions. My portfolio showcases my expertise, achievements, and dedication to science and software engineering. Join me on this exhilarating journey of innovation and discovery as we shape a brighter future together.

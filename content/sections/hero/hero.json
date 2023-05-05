@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/smiley-emoji.png",
+    "alt": "Smiley Face Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Gary Hughes Jr.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "A software engineer and binary ",
+    "highlight": "alchemist",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Committed to continuous growth in science and people",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
