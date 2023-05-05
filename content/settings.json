@@ -2,22 +2,22 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Gary Hughes Jr Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Portfolio website describing interests, values, and skills of the author",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Gary Hughes Jr is a self taught software engineer and is passionate about learning. If not researching new technologies you can find Gary out in wilderness learning about fauna and flora",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      "github": "https://github.com/nomoneyrecord",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/gary-hughes-jr-64925b229/",
+      "mail": "3rdeye.ghj@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Home" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Gary-Hughes-Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

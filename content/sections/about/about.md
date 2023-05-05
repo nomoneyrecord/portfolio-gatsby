@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/AI-human.png"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Picture of human profile as AI"
 ---
 
 
