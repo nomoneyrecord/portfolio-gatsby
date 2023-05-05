@@ -16,7 +16,7 @@
   },
   "description": "Committed to continuous growth in science and people",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github"],
+    "showIcons": true
   }
 }

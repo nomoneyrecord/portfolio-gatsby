@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Gary Lee Hughes Jr",
   "email": "3rdeye.ghj@gmail.com",
   "description": "If you have any questions, or would like to connect, please drop a line.",
   "image": {
@@ -7,7 +7,7 @@
     "alt": "AI Face"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }
