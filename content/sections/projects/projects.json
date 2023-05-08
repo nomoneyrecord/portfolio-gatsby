@@ -24,15 +24,39 @@
       "visible": true,
       "title": "Expense Tracker",
       "description": "This expense tracker app uses modern front-end technologies like React, Bootstrap, and React hooks. The useState hook provides state management, leading to cleaner and more concise code. The application also utilizes a component-based architecture, which enhances code reusability and facilitates easier maintenance. This app was built using best practices, making it scalable and easily maintainable.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/expense_tracker.png",
+        "alt": "Picture of expense tracker",
+        "linkTo": "https://charming-maamoul-f6ec6e.netlify.app/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nomoneyrecord"
+          "url": "https://github.com/nomoneyrecord/Expense-Tracker-main"
+        },
+        {
+          "type": "external",
+          "url": "https://charming-maamoul-f6ec6e.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Star Wars Character API",
+      "description": "As a developer, using this app helped me improve my skills in working with APIs and asynchronous JavaScript, as it was my first time using APIs in a real project. I also learned how to use third-party libraries and integrate them into my React project. The use of Hooks helped me write cleaner and more organized code, making it easier to manage state and side effects. Additionally, Bootstrap made it simple to achieve a responsive and visually appealing design for the app. Overall, building this app was a fun and rewarding experience, and I am excited to continue learning and building with React and other technologies in the future.",
+      "image": {
+        "src": "../../images/Star_Wars_API.png",
+        "alt": "Picture of Calculator app",
+        "linkTo": "https://timely-haupia-722e7a.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nomoneyrecord/star-wars-api"
+        },
+        {
+          "type": "external",
+          "url": "https://timely-haupia-722e7a.netlify.app/"
         }
       ]
     }

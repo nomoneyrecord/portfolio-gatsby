@@ -3,56 +3,42 @@
     {
       "label": "HTML",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/HTML5_Badge.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/CSS3_Badge.png",
         "alt": ""
       }
     },
     {
       "label": "Javascript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "React.Js",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Node.Js",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/NodeJS_Badge.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Leadership",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/teamwork_handlink.png",
         "alt": ""
       }
     }
