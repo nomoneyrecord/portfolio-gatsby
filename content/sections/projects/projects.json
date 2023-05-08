@@ -2,31 +2,28 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️",
-      "title": "Simple Calculator!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Simple Calculator",
+      "description": "This simple, but cool calculator app was built using HTML, CSS, and JavaScript, and it was a valuable learning experience. The app captures button clicks from the user and performs calculations based on the input, using DOM elements to represent various calculator functions. I took care to include error handling in the JavaScript code to ensure that the app can handle different user input scenarios. Overall, it was exciting to see how JavaScript can be used to create interactive and responsive user interfaces. This project allowed me to practice my coding skills while also gaining a better understanding of how to create effective user experiences.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/calculator-pic.png",
+        "alt": "Picture of Calculator app",
+        "linkTo": "https://nomoneyrecord.github.io/Calculator-App/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nomoneyrecord"
+          "url": "https://github.com/nomoneyrecord/Calculator-App"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://nomoneyrecord.github.io/Calculator-App/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "title": "Expense Tracker",
+      "description": "This expense tracker app uses modern front-end technologies like React, Bootstrap, and React hooks. The useState hook provides state management, leading to cleaner and more concise code. The application also utilizes a component-based architecture, which enhances code reusability and facilitates easier maintenance. This app was built using best practices, making it scalable and easily maintainable.",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
