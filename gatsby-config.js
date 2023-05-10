@@ -25,5 +25,6 @@ module.exports = {
         // }
       },
     },
+    `gatsby-transformer-inline-svg`, // add this line to include the plugin
   ],
 };
