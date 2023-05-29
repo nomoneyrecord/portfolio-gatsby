@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/AI-human.png"
-imageAlt: "Picture of human profile as AI"
+imageSrc: "../../images/Headshot-bridge.png"
+imageAlt: "Picture of Gary Hughes Jr"
 ---
 
 
