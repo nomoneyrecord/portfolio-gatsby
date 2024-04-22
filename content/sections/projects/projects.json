@@ -2,61 +2,61 @@
   "projects": [
     {
       "visible": true,
-      "title": "Simple Calculator",
-      "description": "This simple, but cool calculator app was built using HTML, CSS, and JavaScript, and it was a valuable learning experience. The app captures button clicks from the user and performs calculations based on the input, using DOM elements to represent various calculator functions. I took care to include error handling in the JavaScript code to ensure that the app can handle different user input scenarios. Overall, it was exciting to see how JavaScript can be used to create interactive and responsive user interfaces. This project allowed me to practice my coding skills while also gaining a better understanding of how to create effective user experiences.",
+      "title": "Twitter Mock App",
+      "description": "I developed a mock Twitter app to deepen my understanding of React, Flask, and API interactions, simulating Twitter's search functionality. This project enhanced my skills in building dynamic components, processing API data, and managing error handling. The use of Pythons Flask on the back end furthered my knowledge of multi-language application development, illustrating the seamless integration of different technologies to achieve a functional and educational outcome.",
       "image": {
-        "src": "../../images/calculator-pic.png",
-        "alt": "Picture of Calculator app",
-        "linkTo": "https://nomoneyrecord.github.io/Calculator-App/"
+        "src": "../../images/twitter-app-image.png",
+        "alt": "Picture of mock Twitter app homepage",
+        "linkTo": "https://twitter-showcase-2prb.onrender.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nomoneyrecord/Calculator-App"
+          "url": "https://github.com/nomoneyrecord/twitter-showcase-app.git"
         },
         {
           "type": "external",
-          "url": "https://nomoneyrecord.github.io/Calculator-App/"
+          "url": "https://twitter-showcase-2prb.onrender.com"
         }
       ]
     },
     {
       "visible": true,
-      "title": "Expense Tracker",
-      "description": "This expense tracker app uses modern front-end technologies like React, Bootstrap, and React hooks. The useState hook provides state management, leading to cleaner and more concise code. The application also utilizes a component-based architecture, which enhances code reusability and facilitates easier maintenance. This app was built using best practices, making it scalable and easily maintainable.",
+      "title": "Chat App",
+      "description": "I engineered a full-stack, real-time chat application mirroring Slack's interactive experience, leveraging React and Socket.IO for the front end to establish a live, bidirectional communication channel. On the back end, Python, Flask, and SQL provide a solid infrastructure. My implementation of JSON Web Tokens (JWT) for secure authentication embodies a deep dive into token-based security mechanisms, while my use of Bootstrap showcases a commitment to responsive design. This project not only solidified my understanding of web sockets for real-time messaging among multiple concurrent users but also enhanced my proficiency in crafting connected, authenticated user experiences",
       "image": {
-        "src": "../../images/expense_tracker.png",
-        "alt": "Picture of expense tracker",
-        "linkTo": "https://charming-maamoul-f6ec6e.netlify.app/"
+        "src": "../../images/chat-app-image.png",
+        "alt": "Picture of Chat App homepage",
+        "linkTo": "https://chat-app-2-965z.onrender.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nomoneyrecord/Expense-Tracker-main"
+          "url": "https://github.com/nomoneyrecord/chat-app.git"
         },
         {
           "type": "external",
-          "url": "https://charming-maamoul-f6ec6e.netlify.app/"
+          "url": "https://chat-app-2-965z.onrender.com"
         }
       ]
     },
     {
       "visible": true,
-      "title": "Star Wars Character API",
-      "description": "As a developer, using this app helped me improve my skills in working with APIs and asynchronous JavaScript, as it was my first time using APIs in a real project. I also learned how to use third-party libraries and integrate them into my React project. The use of Hooks helped me write cleaner and more organized code, making it easier to manage state and side effects. Additionally, Bootstrap made it simple to achieve a responsive and visually appealing design for the app. Overall, building this app was a fun and rewarding experience, and I am excited to continue learning and building with React and other technologies in the future.",
+      "title": "Fantasy Stock Trading App",
+      "description": "In my most advanced full-stack endeavor, I developed a stock trading simulator using React, Flask, SQL, and the Finnhub API, fine-tuning my skills from an intensive 16-month mentorship. The project emphasizes a scalable and secure backend architecture, DRY principles, and modular code for efficient maintenance. Complementing its robust functionality, the simulator features original, DALL·E-generated artwork that enhances the user interface with a distinctive design aesthetic.",
       "image": {
-        "src": "../../images/Star_Wars_API.png",
-        "alt": "Picture of Calculator app",
-        "linkTo": "https://timely-haupia-722e7a.netlify.app/"
+        "src": "../../images/fantasy-stock-trader-image.png",
+        "alt": "Picture of Fantasy Stock Trading App",
+        "linkTo": "https://fantasy-stock-trader.onrender.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nomoneyrecord/star-wars-api"
+          "url": "https://github.com/nomoneyrecord/fantasy-stock-trader.git"
         },
         {
           "type": "external",
-          "url": "https://timely-haupia-722e7a.netlify.app/"
+          "url": "https://fantasy-stock-trader.onrender.com"
         }
       ]
     }
