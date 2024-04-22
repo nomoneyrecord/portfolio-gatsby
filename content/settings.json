@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Gary-HughesJr-Resume.pdf"
+        "url": "/Gary_HughesJr_Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
