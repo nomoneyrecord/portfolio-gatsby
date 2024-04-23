@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "title": "Twitter Mock App",
+      "title": " Twitter Showcase App",
       "description": "I developed a mock Twitter app to deepen my understanding of React, Flask, and API interactions, simulating Twitter's search functionality. This project enhanced my skills in building dynamic components, processing API data, and managing error handling. The use of Pythons Flask on the back end furthered my knowledge of multi-language application development, illustrating the seamless integration of different technologies to achieve a functional and educational outcome.",
       "image": {
         "src": "../../images/twitter-app-image.png",

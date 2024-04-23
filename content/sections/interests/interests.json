@@ -4,35 +4,56 @@
       "label": "HTML",
       "image": {
         "src": "../../images/HTML5_Badge.png",
-        "alt": ""
+        "alt": "Image of HTML logo"
       }
     },
     {
       "label": "CSS",
       "image": {
         "src": "../../images/CSS3_Badge.png",
-        "alt": ""
+        "alt": "Image of CSS logo"
       }
     },
     {
       "label": "JavaScript",
       "image": {
         "src": "../../images/js.png",
-        "alt": ""
+        "alt": "Image of Javascript logo"
       }
     },
     {
       "label": "React.Js",
       "image": {
         "src": "../../images/react.png",
-        "alt": ""
+        "alt": "Image of React logo"
       }
     },
     {
       "label": "Node.Js",
       "image": {
         "src": "../../images/NodeJS_Badge.png",
-        "alt": ""
+        "alt": "Image of Node logo"
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/Python-logo.png",
+        "alt": "Image of Python Logo"
+      }
+    },
+    {
+      "label": "Flask",
+      "image": {
+        "src": "../../images/Flask-logo.png",
+        "alt": "Image of Flask Logo"
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/Flask-logo.png",
+        "alt": "Image of SQL Logo"
       }
     }
   ],
