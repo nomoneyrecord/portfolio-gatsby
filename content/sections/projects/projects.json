@@ -3,12 +3,8 @@
     {
       "visible": true,
       "title": "Fantasy Stock Trading App",
-      "description": [
-        "Built a stock trading simulator using React, Flask, SQL, and the Finnhub API.",
-        "Designed a scalable, secure backend with DRY and modular principles.",
-        "Refined full-stack expertise through a 16-month mentorship.",
-        "Integrated DALL·E-generated artwork for a unique UI."
-      ],
+      "description": "• Built a stock trading simulator using React, Flask, SQL, and the Finnhub API.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000 • Designed a scalable, secure backend with DRY and modular principles.\u00A0\u00A0\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000 • Refined full-stack expertise through a 16-month mentorship."
+      ,
       "image": {
         "src": "../../images/fantasy-stock-trader-image.png",
         "alt": "Picture of Fantasy Stock Trading App",
@@ -28,12 +24,9 @@
     {
       "visible": true,
       "title": " Twitter Showcase App",
-      "description": [
-        "Developed a mock Twitter search app with React and Flask.",
-        "Processed API data in real time with error handling.",
-        "Enhanced backend skills with Flask and multi-language integration.",
-        "Showcased seamless technology integration for functionality."
-      ],
+      "description": "• Developed a mock Twitter search app with React and Flask.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000 \u00A0\u3000\u3000\u00A0\u3000\u3000• Processed API data in real time with error handling.\u00A0\u00A0\u3000• Enhanced backend skills with Flask and multi-language integration.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u3000\u3000\u00A0\u00A0\u3000 • Showcased seamless technology integration for functionality."
+
+      ,
       "image": {
         "src": "../../images/twitter-app-image.png",
         "alt": "Picture of mock Twitter app homepage",
@@ -53,12 +46,9 @@
     {
       "visible": true,
       "title": "Chat App",
-      "description": [
-        "Built a real-time chat app inspired by Slack using React & Socket.IO.",
-        "Created a secure backend with Flask, SQL, and JWT authentication.",
-        "Implemented web sockets for live, multi-user messaging.",
-        "Designed a responsive UI with Bootstrap."
-      ],
+      "description": "• Built a real-time chat app inspired by Slack using React & Socket.IO.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000 • Created a secure backend with Flask, SQL, and JWT authentication.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000 • Implemented web sockets for live, multi-user messaging.\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000\u00A0\u00A0\u3000 • Designed a responsive UI with Bootstrap."
+
+      ,
       "image": {
         "src": "../../images/chat-app-image.png",
         "alt": "Picture of Chat App homepage",

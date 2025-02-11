@@ -42,5 +42,10 @@
         "alt": "Image of Flask Logo"
       }
     }
-  ]
+  ],
+  "button": {
+    "visible": false,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
 }
