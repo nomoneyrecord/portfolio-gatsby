@@ -2,8 +2,38 @@
   "projects": [
     {
       "visible": true,
+      "title": "Fantasy Stock Trading App",
+      "description": [
+        "Built a stock trading simulator using React, Flask, SQL, and the Finnhub API.",
+        "Designed a scalable, secure backend with DRY and modular principles.",
+        "Refined full-stack expertise through a 16-month mentorship.",
+        "Integrated DALL·E-generated artwork for a unique UI."
+      ],
+      "image": {
+        "src": "../../images/fantasy-stock-trader-image.png",
+        "alt": "Picture of Fantasy Stock Trading App",
+        "linkTo": "https://fantasy-stock-trader.onrender.com"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nomoneyrecord/fantasy-stock-trader.git"
+        },
+        {
+          "type": "external",
+          "url": "https://fantasy-stock-trader.onrender.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "title": " Twitter Showcase App",
-      "description": "I developed a mock Twitter app to deepen my understanding of React, Flask, and API interactions, simulating Twitter's search functionality. This project enhanced my skills in building dynamic components, processing API data, and managing error handling. The use of Pythons Flask on the back end furthered my knowledge of multi-language application development, illustrating the seamless integration of different technologies to achieve a functional and educational outcome.",
+      "description": [
+        "Developed a mock Twitter search app with React and Flask.",
+        "Processed API data in real time with error handling.",
+        "Enhanced backend skills with Flask and multi-language integration.",
+        "Showcased seamless technology integration for functionality."
+      ],
       "image": {
         "src": "../../images/twitter-app-image.png",
         "alt": "Picture of mock Twitter app homepage",
@@ -23,7 +53,12 @@
     {
       "visible": true,
       "title": "Chat App",
-      "description": "I engineered a full-stack, real-time chat application mirroring Slack's interactive experience, leveraging React and Socket.IO for the front end to establish a live, bidirectional communication channel. On the back end, Python, Flask, and SQL provide a solid infrastructure. My implementation of JSON Web Tokens (JWT) for secure authentication embodies a deep dive into token-based security mechanisms, while my use of Bootstrap showcases a commitment to responsive design. This project not only solidified my understanding of web sockets for real-time messaging among multiple concurrent users but also enhanced my proficiency in crafting connected, authenticated user experiences",
+      "description": [
+        "Built a real-time chat app inspired by Slack using React & Socket.IO.",
+        "Created a secure backend with Flask, SQL, and JWT authentication.",
+        "Implemented web sockets for live, multi-user messaging.",
+        "Designed a responsive UI with Bootstrap."
+      ],
       "image": {
         "src": "../../images/chat-app-image.png",
         "alt": "Picture of Chat App homepage",
@@ -37,26 +72,6 @@
         {
           "type": "external",
           "url": "https://chat-app-2-965z.onrender.com"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "title": "Fantasy Stock Trading App",
-      "description": "In my most advanced full-stack endeavor, I developed a stock trading simulator using React, Flask, SQL, and the Finnhub API, fine-tuning my skills from an intensive 16-month mentorship. The project emphasizes a scalable and secure backend architecture, DRY principles, and modular code for efficient maintenance. Complementing its robust functionality, the simulator features original, DALL·E-generated artwork that enhances the user interface with a distinctive design aesthetic.",
-      "image": {
-        "src": "../../images/fantasy-stock-trader-image.png",
-        "alt": "Picture of Fantasy Stock Trading App",
-        "linkTo": "https://fantasy-stock-trader.onrender.com"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nomoneyrecord/fantasy-stock-trader.git"
-        },
-        {
-          "type": "external",
-          "url": "https://fantasy-stock-trader.onrender.com"
         }
       ]
     }
